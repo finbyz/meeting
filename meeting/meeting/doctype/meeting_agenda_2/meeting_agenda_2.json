@@ -1,0 +1,29 @@
+{
+ "creation": "2019-12-10 12:37:35.806998",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "description"
+ ],
+ "fields": [
+  {
+   "fieldname": "description",
+   "fieldtype": "Text Editor",
+   "in_list_view": 1,
+   "label": "Description",
+   "reqd": 1
+  }
+ ],
+ "istable": 1,
+ "modified": "2019-12-10 12:50:55.026313",
+ "modified_by": "Administrator",
+ "module": "Meeting",
+ "name": "Meeting Agenda 2",
+ "owner": "Administrator",
+ "permissions": [],
+ "quick_entry": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}
